@@ -1,0 +1,67 @@
+body
+{
+	overflow-x: hidden; 
+}
+
+.firstview
+{
+	background-image: url('../img/coding-firstview.jpg');
+	width: 100%;
+	height: 50%;
+}
+
+.firstview-statement
+{
+	font-size: 500%;
+	letter-spacing: -2.5px;
+	text-align: center;
+	font-weight: 700;
+	color: #ffffff;
+}
+
+.all_solutions_link_div
+{
+	text-align: center;
+	font-size: 150%;
+	color: #ffffff;
+	background-color: #000000;
+}
+
+.main-content
+{
+	padding-top:2%;
+	background-image: url("../img/main-content-background.png");
+	background-repeat: repeat;
+	padding-bottom: 10%;
+}
+
+.question-url
+{
+	color: #000000;
+}
+
+.image-adds
+{
+	max-width: 100%;
+}
+
+.SOLUTION-label
+{
+	text-align: center;
+	font-size: 250%;
+}
+
+.bold 
+{
+	font-weight: bold;
+}
+
+.question-details
+{
+	background-color: #0174DF;
+}
+
+.vertical-line 
+{
+	border-left: thin solid #000000;
+}

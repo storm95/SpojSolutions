@@ -1,0 +1,94 @@
+.enter-spoj-problem-code
+{
+	text-align: center;
+	font-size: 250%;
+}
+
+.input-spoj-problem-code
+{
+	text-align: center;
+}
+
+table, th, td 
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: gray;
+    min-height: 10%;
+    text-align: center;
+}
+
+.footer
+{
+	min-height: 7%;
+	background-color: #1E1B1A;
+}
+
+.footer-text-label
+{
+	color: #ffffff;
+	font-size: 200%;
+	text-align: center;
+}
+
+.footer-text
+{
+	color: #ffffff;
+	font-size: 200%;
+	padding-left: 25%;
+	padding-right: 30%;
+}
+
+.footer_fb_div
+{
+	padding-left: 20%;
+}
+
+.footer-lowest
+{
+	font-size: 100%;
+	background-color: #000000;
+}
+
+.footer-lower-text
+{
+	color: #ffffff;
+	font-size: 120%;
+	text-align: center;
+}
+
+.anchor-footer:hover
+{
+	color: #B1B1B1;
+} 
+
+.footer .footer-style li
+{
+	border-color: #2D2926 !important;
+}
+
+.footer .footer-style a
+{
+	letter-spacing: 0.10em;
+	font-size:60%;
+	color: #B1B1B1;
+}
+
+ul.footer-style
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+ul.footer-style li
+{
+	border-top: solid 1px #E5E5E5;
+	padding: 0;
+}
+
+ul.footer-style li:first-child
+{
+	border-top: 0;
+	padding-top: 0;
+}
