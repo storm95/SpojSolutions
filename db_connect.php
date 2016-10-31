@@ -1,7 +1,7 @@
 <?php
 	$host= 'localhost';// '182.50.133.90';
-	$user= 'ankit';
-	$password= 'My_pass@9304026692';
+	$user= 'insertUser'; // insert username
+	$password= "passinsert";//insert password
 
 	$db= 'db_coding_solutions';
 	$table_coding_solutions= 'coding_solutions';
