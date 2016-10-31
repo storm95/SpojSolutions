@@ -17,6 +17,7 @@ int main()
                 int len=s.size(),flag;
                 flag=0;
                 a=b=c=0;
+                // rewrite the code
                 for(i=0;i<len&&s[i]!='+';++i)
                 {
                         if(s[i]==' ')
