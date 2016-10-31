@@ -4,6 +4,7 @@
 	require $define_variables_php;
 	require $db_connect_php;
 	require $query_code_problem_php;
+//good code
 ?>
 
 <html>
